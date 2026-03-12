@@ -1,0 +1,62 @@
+things that might be scary for bank apps;
+
+GrapheneOS not updated
+
+Developer options enabled
+Adb, Shizuku or rooting detected
+Device Admin feature detected
+Non-verified accessibility feature detected
+Screen recording detected
+Remote controlling app detected
+Screen sharing detected
+Bootloader not relocked
+OEM-unlock option enabled
+
+Having no sim
+Vpn detected
+Proxy usage
+Private DNS enabled
+
+Location not enabled, or fake location detected
+Location enabled but Network location not enabled
+Network location enabled but Location Services misconfigured
+System time not per detected location
+System time out of sync
+Very short system uptime
+Non-standard system language
+App not intended for detected country
+
+Private space is active, or even having a private space
+More than one profile running, or even having more than one profile
+App launched from secondary user
+App pushed into in secondary user, rather than in-place installed
+
+App not installed from Play Store
+App not initialized or registered completely
+App expecting initialization done on webpage prior launching app
+App lacking a specific companion app
+App expecting a specific dongle or external proprietary hardware keypad
+App not allowed expected permissions
+App not assigned its expected Verified links
+App, or parts of app constrained by vpn
+App outdated, or conversely, recent app update broke functionality
+Active logins from other devices
+
+Automatic exploit protection compatibility mode turned off
+App expecting a working logged in Google account
+Google Account blacklisted by Google
+Google Play Protect having found malware
+Google Age Play detecting a minor
+Too many recent login attempts getting flagged as spam
+Using a less common keyboard, launcher, contacts, 2Fa, or browser app
+
+Sandboxed Google Play Services;
+Not installed, or not enabled.
+ICC authentication with device identifiers not allowed
+Not allowed unrestricted battery usage
+Not allowed unrestricted background data usage
+Not allowed phone, sms, network, location or nearby devices permission.
+Not properly configured in its settings
+Not assigned its needed Verified links
+Sandboxed Google Play Services constrained by vpn
+
