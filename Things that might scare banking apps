@@ -36,6 +36,7 @@ App not intended for detected country
 Private space is active, or even having a private space
 More than one profile running, or even having more than one profile
 App launched from secondary user
+Secondary user not allowed SMS or PHONE permissions
 App pushed into in secondary user, rather than in-place installed
 
 App not installed from Play Store
