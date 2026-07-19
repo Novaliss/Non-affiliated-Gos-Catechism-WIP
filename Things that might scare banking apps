@@ -39,6 +39,7 @@ App launched from secondary user
 App pushed into in secondary user, rather than in-place installed
 
 App not installed from Play Store
+App installed before installing Sandboxed Google Play
 App not initialized or registered completely
 App expecting initialization done on webpage prior launching app
 App launches a browser lacking expected permissions or constrained by Vpn
