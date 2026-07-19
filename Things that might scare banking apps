@@ -41,11 +41,13 @@ App pushed into in secondary user, rather than in-place installed
 App not installed from Play Store
 App not initialized or registered completely
 App expecting initialization done on webpage prior launching app
+App launches a browser lacking expected permissions or constrained by Vpn
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 App not allowed expected permissions
 App not assigned its expected Verified links
-App, or parts of app constrained by vpn
+App, or parts of app constrained by Vpn
+App failing to receive OTP
 App outdated, or conversely, recent app update broke functionality
 Active logins from other devices
 
@@ -65,5 +67,5 @@ Not allowed unrestricted background data usage
 Not allowed phone, sms, network, location or nearby devices permission.
 Not properly configured in its settings
 Not assigned its needed Verified links
-Sandboxed Google Play Services constrained by vpn
+Sandboxed Google Play Services constrained by Vpn
 
