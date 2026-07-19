@@ -67,6 +67,7 @@ ICC authentication with device identifiers not allowed
 Not allowed unrestricted battery usage
 Not allowed unrestricted background data usage
 Not allowed phone, sms, network, location or nearby devices permission.
+Not permitted Verification codes by SMS
 Not properly configured in its settings
 Not assigned its needed Verified links
 Sandboxed Google Play Services constrained by Vpn
