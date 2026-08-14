@@ -7,15 +7,16 @@ GrapheneOS not updated
 
 Developer options enabled
 Adb, Shizuku or rooting detected
-Device Admin feature detected
-Non-verified accessibility feature detected
-Screen recording detected
-Remote controlling app detected
-Screen sharing detected
-App Manager app detected
-MAC address ramdomised detected
+Device Admin app detected
 Bootloader not relocked
 OEM-unlock option enabled
+
+Non-verified accessibility feature detected
+Remote controlling app detected
+Screen recording app detected
+Screen sharing detected
+App Manager app detected
+Non-standard app installer detected
 
 Having no SIM
 Having outdated SIM
@@ -25,6 +26,7 @@ Having SIM with poor physical connection
 Vpn detected
 Proxy usage
 Private DNS enabled
+MAC address ramdomised detected
 
 Location not enabled, or fake location detected
 Location enabled but Network location not enabled
