@@ -45,6 +45,9 @@ App pushed into in secondary user, rather than in-place installed
 
 App not installed from Play Store
 App installed before installing Sandboxed Google Play
+App reinstalled after installing Sandboxed Google Play but
+too many recent login attempts getting flagged as spam
+
 App not initialized or registered completely
 App expecting initialization done on webpage prior launching app
 App launches a browser lacking expected permissions or constrained by Vpn
@@ -62,8 +65,8 @@ App expecting a working logged in Google account
 Google Account blacklisted by Google
 Google Play Protect having found malware
 Google Age Play detecting a minor
-Too many recent login attempts getting flagged as spam
-Using a less common keyboard, launcher, contacts, 2Fa, or browser app
+
+Using a less common keyboard, launcher, contacts, 2Fa, installer, or browser app
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
