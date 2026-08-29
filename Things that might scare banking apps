@@ -46,11 +46,12 @@ App pushed into secondary user, rather than in-place installed
 App not installed from Play Store
 App installed before installing Sandboxed Google Play
 App reinstalled after installing Sandboxed Google Play but
-too many recent login attempts getting flagged as spam
+too many recent login attempts getting flagged as spamming behaviour
 
 App not initialized or registered completely
 App expecting initialization done on webpage prior launching app
 App launches a browser lacking expected permissions or constrained by Vpn
+App launches Vanadium set to 'Open external links in incognito'
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 App not allowed expected permissions
