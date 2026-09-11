@@ -21,3 +21,18 @@ of paper near the device say, in the phone cover.
 
 Lastly, understand where, when, and why your duress code
 would be used. Understand the consequences that may follow.
+
+About going creative when approaching the Duress feature for
+the first time, consider these basics;
+Duress should work when user deliberately intends to, approaching every
+time user correctly triggers the feature.
+
+Duress must never trigger when user didn't want to, under no (as few as possible) cicumstances.
+
+And the exception should be user malpractice, which seems to have been
+deliberately made as non-likely as possible by the developers laying out the duress feature.
+
+https://en.wikipedia.org/wiki/Category:Safety_switches
+
+Please note I'm not affiliated with the GrapheneOS project, just a user who's impressed
+by the super-intricate yet simple Duress feature.
