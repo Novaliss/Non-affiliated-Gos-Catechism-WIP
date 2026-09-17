@@ -1,10 +1,11 @@
-things that might be scary for bank apps;
-Please note that this list is supposed to be rather exhaustive,
-and no apps will reject functioning for all of these reasons. But 
-many troublesome apps will have one or some of their issues listed here.
+Things that might be scary for bank apps;
+Please note that this list is supposed to be rather exhaustive, but centered
+around things that may be mitigated by the user through toggling settings, or by
+changing the environment for the app in various ways.
+No apps will reject functioning for all of these reasons. But many
+troublesome apps will have one or some of their issues listed here.
 
 GrapheneOS not updated
-
 Developer options enabled
 Adb, Shizuku or rooting detected
 Device Admin app detected
@@ -59,9 +60,9 @@ App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
 App failing to receive OTP
 App outdated, or conversely, recent app update broke functionality
-Active logins from other devices
+App constrained by GrapheneOS exploit protections
 
-Automatic exploit protection compatibility mode turned off
+Active logins from other devices
 App expecting a working logged in Google account
 Google Account blacklisted by Google
 Google Play Protect having found malware
@@ -71,6 +72,7 @@ Using a less common keyboard, launcher, contacts, 2Fa, installer, or browser app
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
+Not installed, or enabled, or configured in same profile as the app
 ICC authentication with device identifiers not allowed
 Not allowed unrestricted battery usage
 Not allowed unrestricted background data usage
