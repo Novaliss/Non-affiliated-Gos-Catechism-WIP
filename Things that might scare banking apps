@@ -42,9 +42,10 @@ Private space is active, or even having a private space
 More than one profile running, or even having more than one profile
 App launched from secondary user
 Secondary user not allowed SMS or PHONE permissions
-App pushed into secondary user, rather than in-place installed
 
-App not installed from Play Store
+
+App not installed from Sandboxed Google Play Store
+App installed from Sandboxed Google Play but pushed into profile lacking Play
 App installed before installing Sandboxed Google Play
 App reinstalled after installing Sandboxed Google Play but
 too many recent login attempts getting flagged as spamming behaviour
