@@ -44,7 +44,7 @@ App launched from secondary user
 Secondary user not allowed SMS or PHONE permissions
 
 
-App not installed from Sandboxed Google Play Store
+App not installed from Sandboxed Google Play
 App installed from Sandboxed Google Play but pushed into profile lacking Play
 App installed before installing Sandboxed Google Play
 App reinstalled after installing Sandboxed Google Play but
@@ -74,6 +74,7 @@ Using a less common keyboard, launcher, contacts, 2Fa, or browser app
 Sandboxed Google Play Services;
 Not installed, or not enabled.
 Not installed, or enabled, or configured in same profile as the app
+Sandboxed Google Play Services installed but Play Store uninstalled
 ICC authentication with device identifiers not allowed
 Not allowed unrestricted battery usage
 Not allowed unrestricted background data usage
