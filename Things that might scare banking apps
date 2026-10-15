@@ -43,7 +43,6 @@ More than one profile running, or even having more than one profile
 App launched from secondary user
 Secondary user not allowed SMS or PHONE permissions
 
-
 App not installed from Sandboxed Google Play
 App installed from Sandboxed Google Play but pushed into profile lacking Play
 App installed before installing Sandboxed Google Play
@@ -54,12 +53,17 @@ App not initialized or registered completely
 App expecting initialization done on webpage prior launching app
 App launches a browser lacking expected permissions or constrained by Vpn
 App launches Vanadium set to 'Open external links in incognito'
+
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
+
 App not allowed expected permissions
 App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
 App failing to receive OTP
+Disposable, or newly generated email addresses used for signup process
+Previously used phone numbers, e.g. from pools used for signup process
+
 App outdated, or conversely, recent app update broke functionality
 App constrained by GrapheneOS exploit protections
 
