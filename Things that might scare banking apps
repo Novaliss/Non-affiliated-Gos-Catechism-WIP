@@ -66,6 +66,8 @@ Previously used phone numbers, e.g. from pools used for signup process
 
 App outdated, or conversely, recent app update broke functionality
 App constrained by GrapheneOS exploit protections
+App allowed checking for Play-API
+App disallowed checking for Play-API
 
 Active logins from other devices
 App expecting a working logged in Google account
