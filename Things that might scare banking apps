@@ -64,6 +64,7 @@ App launches a browser with too many open tabs or pages
 
 App expecting being assigned 'Default Wallet' role
 App expecting Sandboxed Google Play Services being assigned 'Default Wallet' role
+App expecting Google Wallet being assigned 'Default Wallet' role
 
 App expecting a specific 2Fa-app to be installed and configured
 App lacking a specific companion app
@@ -101,8 +102,8 @@ Not allowed unrestricted background data usage
 Not allowed phone, sms, network, location or nearby devices permission.
 Allowed Location permission but not Precise Location.
 Not permitted handling Verification codes by SMS
-
-Not properly configured in its settings
+Not allowed the feature 'Notifications read, reply and control'
+Not properly configured in its in-app settings
 Not assigned its needed Verified links
 Sandboxed Google Play Services constrained by Vpn
 
