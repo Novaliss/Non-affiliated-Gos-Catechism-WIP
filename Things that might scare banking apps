@@ -52,8 +52,16 @@ too many recent login attempts getting flagged as spamming behaviour
 App not initialized or registered completely
 App expecting initialization done on webpage prior launching app
 App launches a browser lacking expected permissions or constrained by Vpn
-App launches Vanadium set to 'Open external links in incognito'
+App launches a browser set to 'Open external links in incognito'
+App launches a browser not supported
+App launches a browser not updated
+App launches a browser with unsupported extensions installed
+App launches a browser with too many open tabs or pages
 
+App expecting being assigned 'Default Wallet' role
+App expecting Sandboxed Google Play Services being assigned 'Default Wallet' role
+
+App expecting a specific 2Fa-app to be installed and configured
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 
@@ -68,12 +76,14 @@ App outdated, or conversely, recent app update broke functionality
 App constrained by GrapheneOS exploit protections
 App allowed checking for Play-API
 App disallowed checking for Play-API
+Sandboxed Google Play Store disallowed checking for Play-API
+Sandboxed Google Play Store allowed checking for Play-API
 
 Active logins from other devices
 App expecting a working logged in Google account
 Google Account blacklisted by Google
 Google Play Protect having found malware
-Google Age Play detecting a minor
+Google Age Play detecting a non-verified aged user
 
 Using a less common keyboard, launcher, contacts, 2Fa, or browser app
 
