@@ -28,10 +28,10 @@ Airplane mode active
 Data saver active
 Power saver active
 
-Vpn detected
+Vpn usage detected, or even having a Vpn app installed and enabled.
 Proxy usage
 Private DNS enabled
-MAC address ramdomised detected
+MAC address being ramdomised
 
 Location not enabled, or fake location detected
 Location enabled but Network location not enabled
