@@ -66,6 +66,11 @@ App expecting being assigned 'Default Wallet' role
 App expecting Sandboxed Google Play Services being assigned 'Default Wallet' role
 App expecting Google Wallet being assigned 'Default Wallet' role
 
+App expecting to be assigned role in:
+Settings > Passwords and passkeys > Preferred service
+App expecting Sandboxed Google Play to be assigned role in:
+Settings > Passwords and passkeys > Preferred service
+
 App expecting a specific 2Fa-app to be installed and configured
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
