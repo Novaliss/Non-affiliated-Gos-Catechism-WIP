@@ -76,6 +76,9 @@ App expecting a specific 2Fa-app to be installed and configured
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 
+App depends on turning ON the option in:
+Settings > Accounts and backup > Manage accounts > Auto-sync personal data
+
 App not allowed expected permissions
 App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
