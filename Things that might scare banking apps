@@ -69,6 +69,7 @@ App launches a browser not updated
 App launches a browser with unsupported extensions installed
 App launches a browser with too many open tabs or pages
 
+
 App expecting being assigned 'Default Wallet' role
 App expecting Sandboxed Google Play Services being assigned 'Default Wallet' role
 App expecting Google Wallet being assigned 'Default Wallet' role
@@ -81,6 +82,8 @@ Settings > Passwords and passkeys > Preferred service
 App expecting a specific 2Fa-app to be installed and configured
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
+App expecting additional Google app being installed and configured
+App expecting com.android.webview app being installed
 
 App depends on turning ON the option in:
 Settings > Accounts and backup > Manage accounts > Auto-sync personal data
