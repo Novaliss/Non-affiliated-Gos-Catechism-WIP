@@ -83,7 +83,7 @@ App expecting a specific 2Fa-app to be installed and configured
 App lacking a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 App expecting additional Google app being installed and configured
-App expecting com.android.webview app being installed
+App expecting com.google.android.webview app being installed
 
 App depends on turning ON the option in:
 Settings > Accounts and backup > Manage accounts > Auto-sync personal data
