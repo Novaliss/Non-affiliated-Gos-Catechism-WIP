@@ -6,8 +6,9 @@ No apps will reject functioning for all of these reasons. But many
 troublesome apps will have one or some of their issues listed here.
 
 GrapheneOS not updated
+GrapheneOS system apps or services disabled or restricted
 Developer options enabled
-Adb, Shizuku, Dhizuku, SystemUI-tweaker or rooting detected
+Adb, Shizuku, Dhizuku, SystemUI-tweaker, Magisk, or rooting detected
 Bootloader not relocked
 OEM-unlock option enabled
 
