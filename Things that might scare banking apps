@@ -4,6 +4,7 @@ around things that may be mitigated by the user through toggling settings, or by
 changing the environment for the app in various ways.
 No apps will reject functioning for all of these reasons. But many
 troublesome apps will have one or some of their issues listed here.
+Reboot your device after making changes, especially if the desired effect didn't occur.
 
 GrapheneOS not updated
 GrapheneOS system apps or services disabled or restricted
