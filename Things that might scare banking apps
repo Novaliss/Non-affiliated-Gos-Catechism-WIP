@@ -31,14 +31,16 @@ Airplane mode active
 Data saver active
 Power saver active
 
+Vpn usage detected, or even having a Vpn app installed and enabled
+Adblocker in use
+Proxy usage
+Private DNS enabled
+MAC address being ramdomised
+
 Too many opened apps
 Device storage too low
 Device too hot to launch another app
 
-Vpn usage detected, or even having a Vpn app installed and enabled.
-Proxy usage
-Private DNS enabled
-MAC address being ramdomised
 
 Location not enabled, or fake location detected
 Location enabled but Network location not enabled
@@ -95,7 +97,9 @@ Disposable, or newly generated email addresses used for signup process
 Previously used phone numbers, e.g. from pools used for signup process
 
 App outdated, or conversely, recent app update broke functionality
+App outdated and user not requested the updated and working beta version in Play Store
 App constrained by GrapheneOS exploit protections
+App depends on 
 App allowed checking for Play-API
 App disallowed checking for Play-API
 Sandboxed Google Play Store disallowed checking for Play-API
