@@ -58,7 +58,10 @@ App launched from secondary user
 Secondary user not allowed SMS or PHONE permissions
 
 App not installed from Sandboxed Google Play
-App installed from Sandboxed Google Play but pushed into profile lacking Play
+App installed from Sandboxed Google Play but updated from other source
+App installed from Sandboxed Google Play but pushed into and
+launched from a profile lacking Sandboxed Google Play
+
 App installed before installing Sandboxed Google Play
 App reinstalled after installing Sandboxed Google Play but
 too many recent login attempts getting flagged as spamming behaviour
