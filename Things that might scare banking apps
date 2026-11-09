@@ -27,6 +27,7 @@ Having SIM from carrier not supported by the app
 
 No screenlock set, or lockscreen disabled
 NFC not enabled
+Bluetooth not enabled
 Airplane mode active
 Data saver active
 Power saver active
@@ -44,6 +45,7 @@ Device too hot to launch another app
 Location not enabled, or fake location detected
 Location enabled but Network location not enabled
 Network location enabled but Location Services misconfigured
+App expecting geocoder being enabled
 System time not per detected location
 System time out of sync
 Very short system uptime
@@ -86,7 +88,7 @@ App expecting Sandboxed Google Play to be assigned role in:
 Settings > Passwords and passkeys > Preferred service
 
 App expecting a specific 2Fa-app to be installed and configured
-App lacking a specific companion app
+App expecting a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 App expecting additional Google app being installed and configured
 App expecting com.google.android.webview app being installed
@@ -113,8 +115,11 @@ Sandboxed Google Play Store allowed checking for Play-API
 Disposable, or newly generated email addresses used for signup process
 Previously used phone numbers, e.g. from pools used for signup process
 Active logins from other devices
+Incorrect login credentials entered
+
+
 App expecting a working logged in Google account
-Google Account blacklisted by Google
+Google account blacklisted by Google
 Google Play Protect having found malware
 Google Age Play detecting a non-verified aged user
 
@@ -123,13 +128,13 @@ Sandboxed Google Play Services;
 Not installed, or not enabled.
 Not installed, or enabled, or configured in same profile as the app
 Sandboxed Google Play Services installed but Play Store uninstalled
-ICC authentication with device identifiers not allowed
+Not allowed ICC authentication with device identifiers
 Not allowed unrestricted battery usage
 Not allowed unrestricted background data usage
 Not allowed phone, sms, network, location or nearby devices permission.
 Allowed Location permission but not Precise Location.
-Not permitted handling Verification codes by SMS
-Not allowed the feature 'Notifications read, reply and control'
+Not allowed handling Verification codes by SMS
+Not assigned the feature 'Notifications read, reply and control'
 Not properly configured in its in-app settings
 Not assigned its needed Verified links
 Sandboxed Google Play Services constrained by Vpn
