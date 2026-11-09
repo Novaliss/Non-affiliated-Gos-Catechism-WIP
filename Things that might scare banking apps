@@ -41,7 +41,6 @@ Too many opened apps
 Device storage too low
 Device too hot to launch another app
 
-
 Location not enabled, or fake location detected
 Location enabled but Network location not enabled
 Network location enabled but Location Services misconfigured
@@ -50,6 +49,8 @@ System time out of sync
 Very short system uptime
 Non-standard system language
 App not intended for detected country
+Using a less common keyboard, launcher, contacts, 2Fa, or browser app
+Stock keyboard disabled
 
 Private space is active, or even having a private space
 More than one profile running, or even having more than one profile
@@ -89,30 +90,30 @@ App expecting com.google.android.webview app being installed
 App depends on turning ON the option in:
 Settings > Accounts and backup > Manage accounts > Auto-sync personal data
 
-App not allowed expected permissions
-App not assigned its expected Verified links
-App, or parts of app constrained by Vpn
-App failing to receive OTP
-Disposable, or newly generated email addresses used for signup process
-Previously used phone numbers, e.g. from pools used for signup process
-
 App outdated, or conversely, recent app update broke functionality
 App outdated and user not requested the updated and working beta version in Play Store
 App constrained by GrapheneOS exploit protections
-App depends on 
+App depends on allowed clipboard access
+App disallowed showing above other apps
+App disallowed app usage data
+App disallowed alarms and reminders
+App not assigned its expected Verified links
+App, or parts of app constrained by Vpn
+App failing to receive OTP
+
 App allowed checking for Play-API
 App disallowed checking for Play-API
 Sandboxed Google Play Store disallowed checking for Play-API
 Sandboxed Google Play Store allowed checking for Play-API
 
+Disposable, or newly generated email addresses used for signup process
+Previously used phone numbers, e.g. from pools used for signup process
 Active logins from other devices
 App expecting a working logged in Google account
 Google Account blacklisted by Google
 Google Play Protect having found malware
 Google Age Play detecting a non-verified aged user
 
-Using a less common keyboard, launcher, contacts, 2Fa, or browser app
-Stock keyboard disabled
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
