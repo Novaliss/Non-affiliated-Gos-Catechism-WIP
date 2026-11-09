@@ -69,7 +69,6 @@ App launches a browser not updated
 App launches a browser with unsupported extensions installed
 App launches a browser with too many open tabs or pages
 
-
 App expecting being assigned 'Default Wallet' role
 App expecting Sandboxed Google Play Services being assigned 'Default Wallet' role
 App expecting Google Wallet being assigned 'Default Wallet' role
