@@ -90,6 +90,7 @@ Settings > Passwords and passkeys > Preferred service
 App expecting a specific 2Fa-app to be installed and configured
 App expecting a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
+App expecting a Digital-ID on the device
 App expecting additional Google app being installed and configured
 App expecting com.google.android.webview app being installed
 
