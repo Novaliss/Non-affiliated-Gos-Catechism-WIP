@@ -8,17 +8,16 @@ troublesome apps will have one or some of their issues listed here.
 GrapheneOS not updated
 Developer options enabled
 Adb, Shizuku, Dhizuku, SystemUI-tweaker or rooting detected
-Device Admin app detected
 Bootloader not relocked
 OEM-unlock option enabled
 
-Accessibility feature active
+Device Admin app detected
 Remote controlling app detected
 Automation app detected
+App Manager, or other non-standard app installer detected
 Screen recording app detected
 Screen sharing detected
-App Manager app detected
-Non-standard app installer detected
+Accessibility feature active
 
 Having no SIM
 Having outdated SIM
@@ -26,10 +25,15 @@ Physical SIM storing too many entries
 Having SIM with poor physical connection
 Having SIM from carrier not supported by the app
 
+No screenlock set, or lockscreen disabled
 NFC not enabled
 Airplane mode active
 Data saver active
 Power saver active
+
+Too many opened apps
+Device storage too low
+Device too hot to launch another app
 
 Vpn usage detected, or even having a Vpn app installed and enabled.
 Proxy usage
@@ -102,6 +106,7 @@ Google Play Protect having found malware
 Google Age Play detecting a non-verified aged user
 
 Using a less common keyboard, launcher, contacts, 2Fa, or browser app
+Stock keyboard disabled
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
