@@ -35,6 +35,8 @@ Data saver active
 Power saver active
 
 Vpn usage detected, or even having a Vpn app installed and enabled
+Vpn disabled but device not rebooted
+Vpn turned off but not disabled, and 'Block connections without Vpn' still active
 Adblocker detected or adblocker misconfigured
 Proxy usage
 Private DNS enabled
