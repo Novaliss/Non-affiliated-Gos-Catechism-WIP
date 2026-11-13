@@ -109,6 +109,7 @@ App disallowed alarms and reminders
 App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
 App failing to receive OTP
+OCR autentication timeout
 App-UI obscured by poor support for Expanded Dark Theme
 
 App allowed checking for Play-API
