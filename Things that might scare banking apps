@@ -121,6 +121,8 @@ Previously used phone numbers, e.g. from pools used for signup process
 Active logins from other devices
 Incorrect login credentials entered
 
+App installed by Huawei Appmarket but HMS Core is missing
+
 
 App expecting a working logged in Google account
 Google account blacklisted by Google
