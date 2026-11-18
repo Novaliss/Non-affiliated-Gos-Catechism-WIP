@@ -51,6 +51,7 @@ Location not enabled, or fake location detected
 Location enabled but Network location not enabled
 Network location enabled but Location Services misconfigured
 App expecting geocoder being enabled
+Vpn out-of-country
 System time not per detected location
 System time out of sync
 Very short system uptime
