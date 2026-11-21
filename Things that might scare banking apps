@@ -99,6 +99,7 @@ App expecting a specific dongle or external proprietary hardware keypad
 App expecting a Digital-ID on the device
 App expecting additional Google app being installed and configured
 App expecting com.google.android.webview app being installed
+Google Ads ID outdated, removed, or never generated on device, and app expecting it being present
 
 App depends on turning ON the option in:
 Settings > Accounts and backup > Manage accounts > Auto-sync personal data
