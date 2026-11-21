@@ -29,6 +29,7 @@ Having SIM from carrier not supported by the app
 Using WLAN connection but app expects mobile network
 
 No screenlock set, or lockscreen disabled
+Locking method not supported by app e.g. fingerprint only
 NFC not enabled
 Bluetooth not enabled
 Airplane mode active
