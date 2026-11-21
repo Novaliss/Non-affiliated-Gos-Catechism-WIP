@@ -59,6 +59,8 @@ Non-standard system language
 App not intended for detected country
 Using a less common keyboard, launcher, contacts, 2Fa, or browser app
 Stock keyboard disabled
+Stock keyboard enabled but not selected
+Stock keyboard selected but user installed keyboard not fully disabled
 
 Private space is active, or even having a private space
 More than one profile running, or even having more than one profile
@@ -104,8 +106,9 @@ Google Ads ID outdated, removed, or never generated on device, and app expecting
 App depends on turning ON the option in:
 Settings > Accounts and backup > Manage accounts > Auto-sync personal data
 
-App outdated, or conversely, recent app update broke functionality
-App outdated and user not requested the updated and working beta version in Play Store
+App outdated, or conversely, a recent app update broke functionality
+App outdated and user not signed up for an updated and working beta version in Play Store
+
 App constrained by GrapheneOS exploit protections
 App depends on allowed clipboard access
 App disallowed showing above other apps
