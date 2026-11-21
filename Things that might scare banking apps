@@ -95,6 +95,11 @@ Settings > Passwords and passkeys > Preferred service
 App expecting Sandboxed Google Play to be assigned role in:
 Settings > Passwords and passkeys > Preferred service
 
+App depends on turning ON the option in:
+Settings > Accounts and backup > Manage accounts > Auto-sync personal data
+App expecting being selected in:
+Settings > Accounts and backup > Manage accounts > Add account
+
 App expecting a specific 2Fa-app to be installed and configured
 App expecting a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
@@ -102,9 +107,6 @@ App expecting a Digital-ID on the device
 App expecting additional Google app being installed and configured
 App expecting com.google.android.webview app being installed
 Google Ads ID outdated, removed, or never generated on device, and app expecting it being present
-
-App depends on turning ON the option in:
-Settings > Accounts and backup > Manage accounts > Auto-sync personal data
 
 App outdated, or conversely, a recent app update broke functionality
 App outdated and user not signed up for an updated and working beta version in Play Store
@@ -118,12 +120,14 @@ App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
 App failing to receive OTP
 OCR autentication timeout
+
 App-UI obscured by poor support for Expanded Dark Theme
+App-UI obscured by poor support for 3-button navigation mode
 
 App allowed checking for Play-API
 App disallowed checking for Play-API
 Sandboxed Google Play Store disallowed checking for Play-API
-Sandboxed Google Play Store allowed checking for Play-API
+Sandboxed Google Play Services disallowed checking for Play-API
 
 Disposable, or newly generated email addresses used for signup process
 Previously used phone numbers, e.g. from pools used for signup process
@@ -137,7 +141,8 @@ App expecting a working logged in Google account
 Google account blacklisted by Google
 Google Play Protect having found malware
 Google Age Play detecting a non-verified aged user
-
+App expecting an age-verification procedure being performed
+App requiring user being registered in a separate service
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
