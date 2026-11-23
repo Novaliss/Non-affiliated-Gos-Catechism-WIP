@@ -150,6 +150,9 @@ Sandboxed Google Play Services disallowed checking for Play-API
 Disposable, or newly generated email addresses used for signup process
 Previously used phone numbers, e.g. from pools used for signup process
 App delaying access to existing account when user have a new device
+App rejecting access to existing account when user have a new device and expect 
+user to make a phone call to unlock the service
+
 Active logins from other devices
 Incorrect login credentials entered
 
