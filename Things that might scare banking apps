@@ -9,6 +9,7 @@ Reboot your device after making changes, especially if the desired effect didn't
 GrapheneOS not updated
 GrapheneOS system apps or services disabled or restricted
 Developer options enabled
+Developer options disabled without resetting related toggles
 Adb, Shizuku, Dhizuku, SystemUI-tweaker, Magisk, or rooting detected
 Bootloader not relocked
 OEM-unlock option enabled
@@ -17,6 +18,7 @@ Device Admin app detected
 Remote controlling app detected
 Automation app detected
 App Manager, or other non-standard app installer detected
+Debuggable app detected
 Screen recording app detected
 Screen sharing detected
 Overlay by other app, e.g. a weather widget
@@ -123,8 +125,9 @@ App disallowed alarms and reminders
 App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
 App failing to receive OTP
-OCR autentication timeout
+OCR authentication timeout
 2fa-authentication timeout
+Timeouts caused by power, or data saving mode
 
 App-UI obscured by poor support for Expanded Dark Theme
 App-UI obscured by poor support for 3-button navigation mode
