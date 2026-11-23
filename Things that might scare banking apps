@@ -2,9 +2,17 @@ Things that might be scary for bank apps;
 Please note that this list is supposed to be rather exhaustive, but centered
 around things that may be mitigated by the user through toggling settings, or by
 changing the environment for the app in various ways.
-No apps will reject functioning for all of these reasons. But many
-troublesome apps will have one or some of their issues listed here.
+No apps will reject functioning for all of these reasons
+But many troublesome apps will have one or some of their issues listed here.
 Reboot your device after making changes, especially if the desired effect didn't occur.
+
+Also, this is a work in progress in a state of building up 
+possible reasons for an app rejecting access. I'm doing this with no help from LLM and it will 
+stay like that, so until I get to the next phase of this, this list isn't well sorted or
+ordered from plausibility. I started this to make some sort of checklist for compatibility, but since
+the list is getting larger, it needs a prioritization of common things to check first. This is a 
+planned feature.
+
 
 GrapheneOS not updated
 GrapheneOS system apps or services disabled or restricted
