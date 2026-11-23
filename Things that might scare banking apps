@@ -124,6 +124,7 @@ App not assigned its expected Verified links
 App, or parts of app constrained by Vpn
 App failing to receive OTP
 OCR autentication timeout
+2fa-authentication timeout
 
 App-UI obscured by poor support for Expanded Dark Theme
 App-UI obscured by poor support for 3-button navigation mode
@@ -135,6 +136,7 @@ Sandboxed Google Play Services disallowed checking for Play-API
 
 Disposable, or newly generated email addresses used for signup process
 Previously used phone numbers, e.g. from pools used for signup process
+App delaying access to existing account when user have a new device
 Active logins from other devices
 Incorrect login credentials entered
 
@@ -145,7 +147,7 @@ Google account blacklisted by Google
 Google Play Protect having found malware
 Google Age Play detecting a non-verified aged user
 App expecting an age-verification procedure being performed
-App requiring user being registered in a separate service
+App requiring user being registered into a separate service
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
