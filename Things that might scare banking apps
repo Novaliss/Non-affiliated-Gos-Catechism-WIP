@@ -83,11 +83,14 @@ Secondary user not allowed SMS or PHONE permissions
 App not installed from Sandboxed Google Play
 App installed from Sandboxed Google Play but updated from other source
 App installed from Sandboxed Google Play but pushed into and
-launched from a profile lacking Sandboxed Google Play
+launched from a profile or private space lacking Sandboxed Google Play
+App not compatible with Work profile, or Work profile misconfigured
 
 App installed before installing Sandboxed Google Play
 App reinstalled after installing Sandboxed Google Play but
 too many recent login attempts getting flagged as spamming behaviour
+
+App installed by Huawei Appmarket but HMS Core is missing
 
 App not initialized or registered completely
 App shows a notification or prompt that user didn't notice
@@ -115,10 +118,18 @@ App expecting being selected in:
 Settings > Accounts and backup > Manage accounts > Add account
 
 App expecting a specific 2Fa-app to be installed and configured
-App expecting a specific companion app
+App expecting a specific companion app being installed
 App expecting a specific dongle or external proprietary hardware keypad
 App expecting a Digital-ID on the device
-App expecting the authentication app bmid.itsme installed and configured
+App expecting a specific government eID app or hardware digipass being used
+App expecting verification by physical passport capture, and camera permission is denied
+Verification by physical passport capture attempted with an outdated or invalid passport
+
+
+Google Age Play detecting a non-verified aged user and the app limits access for non-adults
+App expecting an in-app age-verification procedure being performed
+App expecting the age-authentication app bmid.itsme installed and configured
+
 App expecting additional non-system Google app being installed and configured
 App expecting com.google.android.webview app being installed
 App expecting Android System SafetyCore app being installed
@@ -128,25 +139,28 @@ App outdated, or conversely, a recent app update broke functionality
 App outdated and user not signed up for an updated and working beta version in Play Store
 
 App constrained by GrapheneOS exploit protections
+App constrained by GrapheneOS scoped storage
+App constrained by GrapheneOS scoped contacts
+
 App depends on allowed clipboard access
 App disallowed showing above other apps
 App disallowed app usage data
 App disallowed alarms and reminders
-App not assigned its expected Verified links
+
+App not assigned its expected links in settings section 'open by default'
+Verified links blocked by Vpn causing idling, or a browser launch that fails by the same blocking
 App, or parts of app constrained by Vpn
+
+
 App failing to receive OTP
+App timing out when confirmation code arrives delayed, or is entered too late
 OCR authentication timeout
 2fa-authentication timeout
 Timeouts caused by power, or data saving mode
-App timing out when confirmation code arrives delayed, or is entered too late
 
 App-UI obscured by poor support for Expanded Dark Theme
 App-UI obscured by poor support for 3-button navigation mode
 
-App allowed checking for Play-API
-App disallowed checking for Play-API
-Sandboxed Google Play Store disallowed checking for Play-API
-Sandboxed Google Play Services disallowed checking for Play-API
 
 Disposable, or newly generated email addresses used for signup process
 Previously used phone numbers, e.g. from pools used for signup process
@@ -154,17 +168,18 @@ App delaying access to existing account when user have a new device
 App rejecting access to existing account when user have a new device and expect 
 user to make a phone call to unlock the service
 
-Active logins from other devices
+App not allowing active logins on other devices
 Incorrect login credentials entered
 
-App installed by Huawei Appmarket but HMS Core is missing
+App allowed checking for Play-API
+App disallowed checking for Play-API
+Sandboxed Google Play Store disallowed checking for Play-API
+Sandboxed Google Play Services disallowed checking for Play-API
 
 App expecting a working logged in Google account
 Google account blacklisted by Google
-Google Play Protect having found malware
-Google Age Play detecting a non-verified aged user
-App expecting an age-verification procedure being performed
-App requiring user being registered into a separate service
+Google Play Protect found malware
+
 
 Sandboxed Google Play Services;
 Not installed, or not enabled.
