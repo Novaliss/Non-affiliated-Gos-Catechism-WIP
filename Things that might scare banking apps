@@ -118,7 +118,8 @@ App expecting a specific 2Fa-app to be installed and configured
 App expecting a specific companion app
 App expecting a specific dongle or external proprietary hardware keypad
 App expecting a Digital-ID on the device
-App expecting additional Google app being installed and configured
+App expecting the authentication app bmid.itsme installed and configured
+App expecting additional non-system Google app being installed and configured
 App expecting com.google.android.webview app being installed
 App expecting Android System SafetyCore app being installed
 Google Ads ID outdated, removed, or never generated on device, and app expecting it being present
