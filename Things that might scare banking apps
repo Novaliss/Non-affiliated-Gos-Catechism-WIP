@@ -98,6 +98,7 @@ App expecting initialization done on webpage prior launching app
 App launches a browser lacking expected permissions or constrained by Vpn
 App launches a browser set to 'Open external links in incognito'
 App launches a browser not supported
+App accepts only Chrome browser
 App launches a browser not updated
 App launches a browser with unsupported extensions installed
 App launches a browser with too many open tabs or pages
@@ -132,7 +133,6 @@ App expecting the age-authentication app bmid.itsme installed and configured
 
 App expecting additional non-system Google app being installed and configured
 App expecting com.google.android.webview app being installed
-App expecting Android System SafetyCore app being installed
 Google Ads ID outdated, removed, or never generated on device, and app expecting it being present
 
 App outdated, or conversely, a recent app update broke functionality
