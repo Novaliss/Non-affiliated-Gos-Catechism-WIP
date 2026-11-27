@@ -163,12 +163,15 @@ App-UI obscured by poor support for 3-button navigation mode
 
 
 Disposable, or newly generated email addresses used for signup process
-Previously used phone numbers, e.g. from pools used for signup process
+Re-used phone numbers, e.g. from pools used for signup process
+
 App delaying access to existing account when user have a new device
 App rejecting access to existing account when user have a new device and expect 
 user to make a phone call to unlock the service
 
-App not allowing active logins on other devices
+Active logins on other devices, and only one permitted by the app
+Old device still registered as 'Trusted device', and app requires removing it to proceed
+
 Incorrect login credentials entered
 
 App allowed checking for Play-API
