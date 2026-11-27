@@ -190,9 +190,8 @@ Not installed, or enabled, or configured in same profile as the app
 Sandboxed Google Play Services installed but Play Store uninstalled
 Not allowed ICC authentication with device identifiers
 Not allowed unrestricted battery usage
-Not allowed unrestricted background data usage
-Not allowed phone, sms, network, location or nearby devices permission.
-Allowed Location permission but not Precise Location.
+Not allowed background data usage
+Not allowed phone, sms, or network permission.
 Not allowed handling Verification codes by SMS
 Not assigned the feature 'Notifications read, reply and control'
 Not properly configured in its in-app settings
